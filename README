@@ -1,6 +1,12 @@
 dwm - dynamic window manager
 ============================
-dwm is an extremely fast, small, and dynamic window manager for X.
+[dwm](https://dwm.suckless.org/) is an extremely fast, small, and dynamic window manager for X.
+
+This is my (lightly) customized fork, with the following major changes:
+
+- OpenBSD build by default
+- [restartsig](https://dwm.suckless.org/patches/restartsig/)
+- [rmaster](https://dwm.suckless.org/patches/rmaster/)
 
 
 Requirements
